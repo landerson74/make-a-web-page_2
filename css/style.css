@@ -1,0 +1,57 @@
+body {
+  font-family: courier;
+  font-size: 1.4em;
+  padding: 5px 20px;
+  margin: 0 auto;
+  background-color : DarkCyan;
+}
+ h1 { 
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  font-size: 30px;
+  margin: 8px;
+  color: #294895;
+}
+#stage0 {
+  height: auto;
+  width: auto;
+  margin: 0 auto;
+  background-color: #ee3e80;
+  border-color: black;
+}
+#stage1 {
+  height: auto;
+  width: auto;
+  margin: 0 auto;
+  background-color: #ee3e80;
+}
+#lesson1 {
+  height: auto;
+  width: auto;
+  margin: 0 auto;
+  background-color: #ee3e80;
+}
+#lesson2 {
+  height: auto;
+  width: auto;
+  margin: auto 0;
+  background-color: #ee3e80;
+}
+#lesson3 {
+  width: auto;
+  margin: 0 auto;
+  background-color: #ee3e80;
+}
+ul {
+list-style: inside circle;
+  width: 700px;
+}
+li {
+  margin: 8px 0px 3px 0px;
+  list-style-position : outside;
+}
+.eight {
+  list-style: none;
+}
